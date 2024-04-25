@@ -5,5 +5,5 @@ let id=symbol(123);
 let taskeen="asdfg"
 let saba=taskeen;
 //console.log(saba)
-const NewGame=new String('taskeen')
-console.log(NewGame)
+const NewGame=new String('taskeen');
+console.log(NewGame.charAt(2));
